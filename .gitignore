@@ -8,3 +8,4 @@ generated*
 deps/usr/*
 *.swp
 *.store
+.ipynb_checkpoints
